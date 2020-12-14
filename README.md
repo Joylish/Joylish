@@ -1,7 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoylish&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h3> I am a junior🐥 developer who wants to be able to play a part in any team !!</h3>
+<p>
+  <b>I am a junior developer🐣 who wants to be able to play a part in any team !</b> </br>
+  I have been studying Computer Science and Development for about 2 years. I want to grow more.
+</p>
 <p>
   <img align="left" width="490" height="200" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
   <p align="right">
