@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<img align="left" width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
+<img align="left" width="490" height="185" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
@@ -41,7 +41,8 @@
 
 <h3>😎 History</h3>
 <p>
-🏆 NHN Special award by LiveMD (2020.12.11) <br/>
+🏆 Part of Service Development Supervised by PaaS-TA - NHN Special award by LiveMD (2020.12.11) <br/>
+🏆 Korea-Health-Datathon Sinusitis - 16th by Amolecular (2020.10) <br/>
 📦 Completed Education of Mircoservice Architect for Cloud Service (2020.07.06 - 12.04) <br/>
 📜 Certificated SQL developer (2020.05.31) <br/>
 </p>
