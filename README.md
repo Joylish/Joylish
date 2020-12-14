@@ -39,7 +39,7 @@
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
 </p>
 
-<h3>😎 History</h3>
+<h3>🤩 History</h3>
 <p>
 🏆 Part of Service Development Supervised by PaaS-TA - NHN Special award by LiveMD (2020.12.11) <br/>
 🏆 Korea-Health-Datathon Sinusitis - 16th by Amolecular (2020.10) <br/>
