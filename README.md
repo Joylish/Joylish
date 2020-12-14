@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoylish&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+<h3> I'm a junior developer who wants to be able to play a part in any team ! 😁</h3>
 
 <img align="left" width="490" height="185" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
 <h3>Things I code with</h3>
@@ -39,7 +39,7 @@
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
 </p>
 
-<h3>🤩 History</h3>
+<h3>🤩 2020 History</h3>
 <p>
 🏆 Part of Service Development Supervised by PaaS-TA - NHN Special award by LiveMD (2020.12.11) <br/>
 🏆 Korea-Health-Datathon Sinusitis - 16th by Amolecular (2020.10) <br/>
