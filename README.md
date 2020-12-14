@@ -2,8 +2,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img align="left" width="490" height="200" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
 
+<img align="left" width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
@@ -20,7 +20,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-232F3E?style=flat-square&logo=ExpressExpress&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-232F3E?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -38,9 +39,15 @@
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
 </p>
 
+<h3>😎 History</h3>
 <p>
-<h3>History</h3>
-> 🏆 2020.12.11 **NHN Special award** by LiveMD <br/>
-> 📦 2020.07.06 - 12.04 Completed Education of **Mircoservice Architect** for Cloud Service <br/>
-> 📜 2020.05.31 Certificated **SQL developer**<br/>
+🏆 NHN Special award by LiveMD (2020.12.11) <br/>
+📦 Completed Education of Mircoservice Architect for Cloud Service (2020.07.06 - 12.04) <br/>
+📜 Certificated SQL developer (2020.05.31) <br/>
+</p>
+
+<h3>💌 Contact</h3>
+<p>
+<a href="mailto:yeonzzu2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/i_am_play__"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
