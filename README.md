@@ -52,7 +52,8 @@
 🏆 Part of Service Development Supervised by PaaS-TA - NHN Special award by LiveMD (2020.12.11) <br/>
 🏆 Korea-Health-Datathon Sinusitis - 16th by Amolecular (2020.10) <br/>
 🏃‍♀️ Completed Education of Mircoservice Architect for Cloud Service (2020.07.06 - 12.04) <br/>
-🏃‍♂️ Completed Education of KISA Insurtech data analysis course (2020. 06. 22 - 06. 26) <br/>
+🕺 Completed Education of KData Data Youth Campus (2020.07.06 - 09.11) <br/>
+🏃‍♂️ Completed Education of KISA Insurtech data analysis course (2020.06.22 - 06.26) <br/>
 📜 Certificated SQL developer (2020.05.31) <br/>
 </p>
 
