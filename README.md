@@ -38,7 +38,9 @@
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
 </p>
 
+<p>
 <h3>History</h3>
-- 2020.12.11 NHN Special award by LiveMD<br/>
-- 2020.07.06 - 12.04 Completed Education of Mircoservice Architect for Cloud Service <br/>
-- 2020.05.31 Certificated SQL developer<br/>
+> 🏆 2020.12.11 **NHN Special award** by LiveMD <br/>
+> 📦 2020.07.06 - 12.04 Completed Education of **Mircoservice Architect** for Cloud Service <br/>
+> 📜 2020.05.31 Certificated **SQL developer**<br/>
+</p>
