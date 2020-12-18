@@ -49,7 +49,7 @@
 
 <h3>🤩 2020 History</h3>
 <p>
-🏆 [PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)](https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be) <br/>
+🏆<a href="https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be"> PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)</a> <br/> 
 🏆 NAVER CLOUD PLATFORM Korea-Health-Datathon Sinusitis - 16th by Amolecular (2020.09.25) <br/>
 🏃‍♀️ Completed Education of Microservice Architect for Cloud Service (2020.07.06 - 12.04) <br/>
 🕺 Completed Education of KData Data Youth Campus (2020.07.06 - 09.11) <br/>
