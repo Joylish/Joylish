@@ -49,11 +49,11 @@
 
 <h3>🤩 2020 History</h3>
 <p>
-🌼 Samsung SW Academy For Youth 5th <br/>
+🌼<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th in Seoul </a> <br/>
 🏆<a href="https://www.youtube.com/watch?v=nR2TqMuPBzE&feature=youtu.be"> PaaS-TA Service Development - NHN Special award by LiveMD (2020.12.11)</a> <br/> 
 🏆 NAVER CLOUD PLATFORM Korea-Health-Datathon Sinusitis - 16th by Amolecular (2020.09.25) <br/>
 🏃‍♀️ Completed Education of Microservice Architect for Cloud Service (2020.07.06 - 12.04) <br/>
-🕺 Completed Education of KData Data Youth Campus (2020.07.06 - 09.11) <br/>
+🕺 <a href="http://bigjob.dbguide.net/"> Completed Education of KData Data Youth Campus (2020.07.06 - 09.11) </a><br/>
 🏃‍♂️ Completed Education of KISA Insurtech data analysis course (2020.06.22 - 06.26) <br/>
 📜 Certificated SQL developer (2020.05.31) <br/>
 </p>
