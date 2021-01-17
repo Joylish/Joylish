@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img align="left" width="490" height="260" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
+  <img align="left" width="490" height="270" src="https://github-readme-stats.vercel.app/api?username=Joylish&show_icons=true&theme=buefy&hide_border=false&line_height=20&show_owner=true"/>
   <p align="right">
   <h3>Things I code with</h3>
   <p>
