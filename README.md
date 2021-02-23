@@ -67,5 +67,6 @@
 <h3>💌 Contact</h3>
 <p>
 <a href="mailto:yeonzzu2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/i_am_play__"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/i_am_play__"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="http://kko.to/hHl5JnAY0"><img src="https://img.shields.io/badge/-music-00b423?style=for-the-badge&logo=apple-music&logoColor=white"/></a> &nbsp;
 </p>
