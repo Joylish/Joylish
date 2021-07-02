@@ -6,8 +6,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>
-  I am junior software engineer🐣 </br>
-  I have been studying Computer Science and Development for about 2 years. I want to grow more.
+  I am junior software engineer 🐣 </br>
+  I want to grow more and more!
 </p>
 
 ### Who Am I
