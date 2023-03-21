@@ -1,8 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoylish&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yeonzzu2@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/i_am_play__) 
-[![Music Blog Badge](https://img.shields.io/badge/Music%20Blog-1eb031?style=flat&logoColor=white)](http://kko.to/hHl5JnAY0) 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://yeondube.tistory.com/)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>
@@ -20,7 +17,7 @@
 - 🥇 I majored in Computer Science and E-Business
 
 ### Experience
-<details open>
+<details>
 <summary>😉 2021 History</summary>
 🏃‍♀<a href="https://www.sktelecom.com/index_en.html"> SK telecom, Core department </a> <br/>
 🌼<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th in Seoul </a> <br/>
